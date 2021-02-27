@@ -7,4 +7,4 @@ A Tensorflow implementation of Siamese Neural Network.
 python siamese_example_mnist.py
 ```
 ## TO DO:
-- [ ] Train model with CIFAR100 dataset, then compare with EfficientNet
+- [ ] Train model on CIFAR100 dataset, then compare with EfficientNet
