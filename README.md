@@ -4,7 +4,8 @@ A Tensorflow implementation of Siamese Neural Network.
 - Clone the repository
 - Run model
 ```
-python siamese_example_mnist.py
+python siamese_mnist_example.py
 ```
 ## TO DO:
 - [ ] Train model on CIFAR100 dataset, then compare with EfficientNet
+- [ ] Fix dimension problem 
