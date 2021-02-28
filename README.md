@@ -3,7 +3,7 @@ A Tensorflow implementation of Siamese Neural Network.
 ## Usuage:
 - Install packages
 ```
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
 - Clone the repository
 ```
